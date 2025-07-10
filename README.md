@@ -1,7 +1,7 @@
 <!-- ヘッダーバナー -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&colorvenom0:3b82f6,100:9333ea&height=200&section=header&text=otake1006%20|%20学生%20エンジニア&fontColor=ffffff&fontSize=60&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&colorvenom0:3b82f6,100:9333ea&height=200&section=header&text=otake1006%20|%20学生%20エンジニア&fontColor=000fff&fontSize=60&animation=fadeIn"/>
 </p>
 
 <h2 align="center">「ワクワク」を作りたい</h2>
@@ -40,12 +40,12 @@
 
 ## 🏅 資格・認定
 
-情報処理安全確保支援士(2025)
-応用情報技術者試験 (2024)
-Oracle Certified Java Programmer, Bronze SE (2024)
-C言語プログラミング能力認定検定 2級 (2024)
-基本情報技術者試験 (2023)
-マイクロソフト社主催 MOS Excel 2019 (2023)
+* 情報処理安全確保支援士(2025)
+* 応用情報技術者試験 (2024)
+* Oracle Certified Java Programmer, Bronze SE (2024)
+* C言語プログラミング能力認定検定 2級 (2024)
+* 基本情報技術者試験 (2023)
+* マイクロソフト社主催 MOS Excel 2019 (2023)
 
 ---
 
@@ -58,5 +58,5 @@ C言語プログラミング能力認定検定 2級 (2024)
 
 ---
 
-> 「自分のプロダクトが使われ、新しい開発や盛り上がりが生まれることに喜びを感じます。」
+
 
